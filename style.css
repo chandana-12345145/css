@@ -1,0 +1,44 @@
+.container{
+    width:100%;
+    height:100%;
+    background-color:purple;
+}
+.header{
+    width:100%;
+    height:20%;
+    background-color: orange;
+}
+.header h1{
+    color:black;
+    text-align:center;
+    font-size: 50px;
+    padding: 15px;
+}
+li{
+list-style-type: none;
+float:left;
+}
+a{
+    color:black;
+    font-size: 50px;
+    padding: 100px;
+    text-decoration:none;
+}
+a:hover{
+    text-decoration:underline;
+}
+#menubar{
+    width:100%;
+    height:10%;
+    background-color:yellowgreen;
+}
+.maincontent{
+    width:100%;
+    height:60%;
+    background-color:blue;
+}
+.footer{
+    width:100%;
+    height:10;
+    background-color:purple;
+}
